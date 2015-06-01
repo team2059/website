@@ -1,7 +1,6 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
-
-  <article class="content">
+    <article class="main">
       {{ if isset .Params "video" }}
         <section class="video">
           <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen>
@@ -11,6 +10,8 @@
       <header>
         <h1 id="title">{{ .Title }}</h1>
       </header>
-      {{ .Content }}
+      <section class="content">
+        {{ .Content }}
+      </section>
     </article>
 {{ partial "footer.html" . }}
