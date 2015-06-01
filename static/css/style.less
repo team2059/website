@@ -9,16 +9,13 @@
 
 /**** FONTS ****/
 
+// Eagle Bold - Used for headers and titles.
 @font-face {
     font-family: 'Eagle';
     src: url('/fonts/Eagle.woff') format('woff');
 }
 
 /**** GLOBAL STYLES ****/
-
-html {
-    background-color: @light-gray;
-}
 
 body {
     background-color: @light-gray;
@@ -216,8 +213,20 @@ footer {
     }
 }
 
-@media (min-width: 960px) {
-    .featured {
-
+@media (min-width: 700px) {
+    .summary {
+        max-width: 40em;
+        margin: 0 auto;
+        .featured {
+            width: 100%;
+            display: inline-block;
+            &:nth-of-type(3n + 1),
+            &:nth-of-type(3n + 2) {
+                width: 45%;
+            }
+            &:nth-of-type(3n + 1) {
+                margin-right: 9%;
+            }
+        }
     }
 }
