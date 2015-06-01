@@ -1,7 +1,10 @@
+/**** COLORS ****/
+
 @hh-orange: #ff9800;
 @hh-blue: #588dca;
 @orange: #FFC163;
 @white: #F8F8F8;
+@light-gray: darken(@white, 2.5%);
 
 
 /**** FONTS ****/
@@ -11,17 +14,26 @@
     src: url('/fonts/Eagle.woff') format('woff');
 }
 
+/**** GLOBAL STYLES ****/
+
+html {
+    background-color: @light-gray;
+}
 
 body {
-    background-color: darken(@white, 2.5%);
-    margin: 0;
+    background-color: @light-gray;
+    margin: 0; // Many browsers add some extra space around the entire body.
     font-family: sans-serif;
+    line-height: 1.6em;
     color: @hh-blue;
 }
 
-h1 {
+h1, h2, h3 {
     font-family: Eagle, Helvetica, sans-serif;
-    font-size:2em;
+}
+
+h1 {
+    font-size: 2em;
 }
 
 textarea {
@@ -61,7 +73,7 @@ select {
     width: 100%;
 }
 
-.button {
+button {
     font-size: 2em;
     color: #FFF;
     background-color: @orange;
@@ -73,27 +85,30 @@ select {
     }
 }
 
+footer {
+    background-color: @hh-blue;
+    margin: 0;
+    a {
+        color: @white;
+        &:visited {
+            color: @light-gray;
+        }
+    }
+}
+
+.shadow {
+    box-shadow: 0 .2em .5em darken(@light-gray, 2.5%);
+}
+
 .content {
     width: 90%;
     max-width: 36em;
     margin: 1.5em auto 1.5em auto;
     background-color: @white;
-    box-shadow: 0 .2em .5em #888888;
+    .shadow;
     img {
         width: 100%;
     }
-}
-
-section h1 {
-    max-width: 100%;
-    text-align: center;
-    margin: 0 auto 0 auto;
-    padding: 5% 0 5% 0;
-    display: block;
-    background: @hh-blue;
-    color: #fff;
-    z-index: -2;
-    text-decoration: none;
 }
 
 .video {
@@ -136,9 +151,13 @@ section h1 {
         img {
             margin-bottom: -40px;
             transition: 750ms ease;
+            width: 100px;
+            height: 100px;
         }
-        &:hover img {
-            transform: rotate(-360deg);
+        &:hover {
+            img {
+                transform: rotate(-360deg);
+            }
         }
         a {
             background-color: @hh-blue;
@@ -147,10 +166,7 @@ section h1 {
             font-size: 2em;
             text-decoration: initial;
             padding: .25em 1em 0.25em 0em;
-            border-top-left-radius: 1em;
-            border-bottom-left-radius: 1em;
-            border-bottom-right-radius: 1em;
-            border-top-right-radius: 1em;
+            border-radius: 1em;
             margin: 0 auto;
         }
     }
@@ -162,13 +178,46 @@ section h1 {
     border-bottom: solid @orange 4px;
 }
 
-@media (max-width: 550px) {
+.featured {
+    width: 90%;
+    max-width: 48em;
+    margin: 1em auto;
+    .shadow;
+    h1 {
+        max-width: 100%;
+        text-align: center;
+        margin: 0 auto 0 auto;
+        padding: 5% 0 5% 0;
+        display: block;
+        background: @hh-blue;
+        color: #fff;
+        z-index: -2;
+        text-decoration: none;
+    }
+}
 
+.content {
+    padding: 2em;
+    h1 {
+        text-align: center;
+        padding: 1em 0;
+        margin: 0;
+        border-top: 0.1em solid @hh-blue;
+        border-bottom: 0.1em solid @hh-blue;
+    }
+}
+
+@media (max-width: 550px) {
     .header {
         .logo {
             transform: scale(0.75,0.75);
             margin-bottom: 1.5em;
         }
     }
+}
 
+@media (min-width: 960px) {
+    .featured {
+
+    }
 }
