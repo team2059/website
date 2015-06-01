@@ -1,0 +1,11 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+
+<article class="content">
+    {{ range .Data.Pages }}
+      {{ if isset .Params "homepage" }}
+        {{ .Content }}
+      {{ end }}
+    {{ end }}
+</article>
+{{ partial "footer.html" . }}

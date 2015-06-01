@@ -1,0 +1,28 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "hugo && gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team2059/website.git"
+  },
+  "author": "The Hitchhikers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team2059/website/issues"
+  },
+  "homepage": "http://team2059.org/",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-changed": "^1.2.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-html": "^1.0.2",
+    "less-plugin-clean-css": "^1.5.0"
+  }
+}
