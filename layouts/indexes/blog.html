@@ -1,9 +1,11 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
+    <section class="summary">
         {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
         {{ range $paginator.Pages }}
           {{ .Render "summary"}}
         {{ end }}
+    </section>
       {{ if $paginator.HasPrev }}
           <a href="{{ $paginator.Prev.Url }}">Previous</a>
       {{ end }}
