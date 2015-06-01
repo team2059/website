@@ -1,2 +1,4 @@
 public/
 node_modules/
+*.log
+static/fonts/
