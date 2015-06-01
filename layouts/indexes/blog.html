@@ -1,0 +1,14 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+        {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
+        {{ range $paginator.Pages }}
+          {{ .Render "summary"}}
+        {{ end }}
+      {{ if $paginator.HasPrev }}
+          <a href="{{ $paginator.Prev.Url }}">Previous</a>
+      {{ end }}
+      {{ if $paginator.HasNext }}
+          <a href="{{ $paginator.Next.Url }}">Next</a>
+      {{ end }}
+    </article>
+{{ partial "footer.html" . }}
