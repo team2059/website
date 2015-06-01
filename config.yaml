@@ -1,3 +1,4 @@
 baseurl: "http://team2059.org/"
 languageCode: "en-us"
 title: "The Hitchhikers"
+metaDataFormat: "yaml"
