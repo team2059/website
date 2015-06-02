@@ -93,11 +93,17 @@ footer {
     }
 }
 
+::selection {
+    color: @white;
+    background-color: @hh-blue;
+}
+
 .shadow {
     box-shadow: 0 .2em .5em darken(@light-gray, 2.5%);
 }
 
 .content {
+    position: relative; // Keeps text selection within this section.
     width: 90%;
     max-width: 36em;
     margin: 1.5em auto 1.5em auto;
@@ -189,8 +195,15 @@ footer {
         background: @hh-blue;
         color: #fff;
         z-index: -2;
+    }
+    a {
         text-decoration: none;
     }
+}
+
+.media {
+    background-color: lighten(@orange, 10%);
+    min-height: 22.5em;
 }
 
 .content {
@@ -222,7 +235,11 @@ footer {
             display: inline-block;
             &:nth-of-type(3n + 1),
             &:nth-of-type(3n + 2) {
+                .media {
+                    min-height: 20em;
+                }
                 width: 45%;
+                font-size: 0.5em;
             }
             &:nth-of-type(3n + 1) {
                 margin-right: 9%;
