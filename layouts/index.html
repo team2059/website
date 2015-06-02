@@ -9,5 +9,10 @@
       {{ end }}
     {{ end }}
   </section>
+  <section class="summary">
+  {{ range first 3 (where .Site.Pages "Section" "blog") }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </section>
 </article>
 {{ partial "footer.html" . }}
