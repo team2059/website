@@ -1,0 +1,41 @@
+@import 'colors';
+
+.shadow {
+    box-shadow: 0 .2em .5em darken(@light-gray, 2.5%);
+}
+
+.center {
+    text-align: center;
+}
+
+.slow-transition {
+    transition: all 750ms;
+}
+
+.regular-transition {
+    transition: all 250ms;
+}
+
+.fast-transition {
+    transition: all 100ms;
+}
+
+.color-orange {
+    background-color: @orange;
+    color: @white;
+}
+
+.color-blue {
+    background-color: @hh-blue;
+    color: @white;
+}
+
+.disabled {
+    color: lighten(@hh-orange, 40%);
+    background-color: @white;
+    border: 2px solid lighten(@hh-orange, 40%);
+}
+
+.title {
+    font-family: Eagle, Helvetica, sans-serif;
+}
