@@ -1,16 +1,22 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
+  <article class="main">
+    <div class="featured">
+      <h1>The Blog.</h1>
+    </div>
     <section class="summary">
         {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
         {{ range $paginator.Pages }}
           {{ .Render "summary"}}
         {{ end }}
+        <div class="full-width" style="min-height: 3em; margin: 1em 0;">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.Url }}" class="button left">Previous</a>
+        {{ end }}
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.Url }}" class="button right">Next</a>
+        {{ end }}
+      </div>
     </section>
-      {{ if $paginator.HasPrev }}
-          <a href="{{ $paginator.Prev.Url }}">Previous</a>
-      {{ end }}
-      {{ if $paginator.HasNext }}
-          <a href="{{ $paginator.Next.Url }}">Next</a>
-      {{ end }}
-    </article>
+  </article>
 {{ partial "footer.html" . }}

@@ -5,9 +5,9 @@
       <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen>
       </iframe>
     </section>
-  {{ else }}
-    <img />
-  {{ end }}
+    {{ else if isset .Params "image" }}
+      <img src="/images/{{ index .Params "image" }}" alt="{{ .Title }}">
+    {{ end }}
   </div>
   <a href="{{ .Permalink }}"><h1>{{ .Title}}</h1></a>
 </section>
