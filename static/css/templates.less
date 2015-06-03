@@ -4,6 +4,15 @@
     box-shadow: 0 .2em .5em darken(@light-gray, 2.5%);
 }
 
+.left {
+    float: left;
+    clear: left;
+}
+
+.right {
+    float: right;
+}
+
 .center {
     text-align: center;
 }
@@ -38,4 +47,29 @@
 
 .title {
     font-family: Eagle, Helvetica, sans-serif;
+}
+
+
+.standard-width {
+    width: 90%;
+    max-width: 48em;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.half-width {
+    width: 47.5%;
+}
+
+.orange-link {
+    color: @orange;
+    text-decoration: none;
+    padding: 0.5em;
+    .fast-transition;
+    &:hover {
+        color: @white;
+        background-color: @orange;
+    }
 }
