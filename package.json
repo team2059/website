@@ -18,11 +18,13 @@
   },
   "homepage": "http://team2059.org/",
   "devDependencies": {
+    "browser-sync": "^2.7.6",
     "gulp": "^3.8.11",
-    "gulp-changed": "^1.2.1",
     "gulp-clean": "^0.3.1",
     "gulp-less": "^3.0.3",
     "gulp-minify-html": "^1.0.2",
-    "less-plugin-clean-css": "^1.5.0"
+    "gulp-run": "^1.6.8",
+    "less-plugin-clean-css": "^1.5.0",
+    "run-sequence": "^1.1.0"
   }
 }
