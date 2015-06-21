@@ -1,0 +1,32 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+    <article class="main">
+      <section class="featured">
+        <div class="media">
+        {{ if isset .Params "video" }}
+          <section class="video">
+            <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen>
+            </iframe>
+          </section>
+        {{ else if isset .Params "image" }}
+          <img src="/images/{{ index .Params "image" }}" alt="{{ .Title }}">
+        {{ end }}
+        </div>
+        <header>
+          <h1 id="title">{{ .Title }}</h1>
+        </header>
+      </section>
+      <div class="content">
+          <p><strong>Year</strong>: {{ index .Params "year" }}</p>
+          <p><strong>Game</strong>: {{ index .Params "game" }}</p>
+          {{ if isset .Params "code" }}
+          <a class="button right" href="{{ index .Params "code" }}">
+              Source code
+          </a>
+          {{ end }}
+      </div>
+      <section class="content">
+        {{ .Content }}
+      </section>
+    </article>
+{{ partial "footer.html" . }}
