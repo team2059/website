@@ -1,0 +1,17 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+  <article class="main">
+    <div class="featured">
+      <h1>Resources.</h1>
+    </div>
+    <section class="summary">
+        {{ range $.Site.Data.resources.resources }}
+           <section class="featured">
+             <div class="media">
+             </div>
+             <a href="{{ .link }}"><h1>{{ .title }}</h1></a>
+           </section>
+        {{ end }}
+    </section>
+  </article>
+{{ partial "footer.html" . }}
