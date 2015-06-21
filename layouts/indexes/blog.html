@@ -5,11 +5,12 @@
       <h1>The Blog.</h1>
     </div>
     <section class="summary">
-        {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
+      {{ $paginator := .Paginate (where .Data.Pages "Section" "blog") }}
         {{ range $paginator.Pages }}
           {{ .Render "summary"}}
         {{ end }}
-        <div class="full-width" style="min-height: 3em; margin: 1em 0;">
+        {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
+        <div class="full-width pagination">
         {{ if $paginator.HasPrev }}
             <a href="{{ $paginator.Prev.Url }}" class="button left">Previous</a>
         {{ end }}
@@ -17,6 +18,7 @@
             <a href="{{ $paginator.Next.Url }}" class="button right">Next</a>
         {{ end }}
       </div>
+      {{ end }}
     </section>
   </article>
 {{ partial "footer.html" . }}
