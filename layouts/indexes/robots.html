@@ -1,0 +1,13 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+  <article class="main">
+    <div class="featured">
+      <h1>Robots.</h1>
+    </div>
+    <section class="summary">
+        {{ range where .Data.Pages "Section" "robots" }}
+          {{ .Render "summary"}}
+        {{ end }}
+    </section>
+  </article>
+{{ partial "footer.html" . }}
