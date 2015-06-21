@@ -7,10 +7,9 @@
     </section>
     <nav class="navigation">
         <ul>
-            <li><a href="/">Home</a>
-            <li><a href="/about-us/">About</a>
-            <li><a href="/blog/">Blog</a>
-            <li><a href="/resources/">Resources</a>
+          {{ range .Site.Menus.main }}
+            <li><a href="{{.URL}}">{{ .Name }}</a></li>
+          {{ end }}
         </ul>
     </nav>
 </section>
