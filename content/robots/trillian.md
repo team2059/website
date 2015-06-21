@@ -19,7 +19,8 @@ Kickoff
 
 The 2013 FIRST Robotics Competition build season kicked off to an explosive
 start. The design challenge was announced live at Dorton Arena, where swarms of
-excited students crowded the stands for the reveal. For the next six weeks, the students would be tasked with the creation of a robot capable of competing in
+excited students crowded the stands for the reveal. For the next six weeks, the
+students would be tasked with the creation of a robot capable of competing in
 the high-speed sport of Ultimate Frisbee. Though a slightly altered version of
 the game, the main objective remained the same: collect discs and shoot them
 into the goals. As we would be competing with multiple targets and two pyramids,
@@ -40,7 +41,8 @@ Assembly
 --------
 
 We managed to assemble our robot from there by using our model as a reference,
-and adding to it through the year. It was a process of prototyping and creating physical models of designs that we thought would work, and then recreating them
+and adding to it through the year. It was a process of prototyping and creating
+physical models of designs that we thought would work, and then recreating them
 and implementing them in the actual body of the robot. Through our six week
 build season, we went through many iterations of certain designs, and
 troubleshooted and improved until we had a robot that was as effective as we
@@ -72,7 +74,8 @@ North Carolina
 
 
 With the knowledge we gained from an entire regional full of practice at
-Palmetto, we had what it would take to succeed in North Carolina. Trillian was performing outstandingly and would often score more than fifty points a match.
+Palmetto, we had what it would take to succeed in North Carolina. Trillian was
+performing outstandingly and would often score more than fifty points a match.
 
 By the end of qualification matches, we were placed within the top eight.
 Because of this, we were guaranteed a place in the elimination rounds. In the
