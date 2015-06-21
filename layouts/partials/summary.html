@@ -1,0 +1,13 @@
+<section class="featured">
+  <div class="media">
+  {{ if .video }}
+    <section class="video">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ .video }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen>
+      </iframe>
+    </section>
+    {{ else if .image }}
+      <img src="/images/{{ .image }}" alt="{{ .Title }}">
+  {{ end }}
+  </div>
+  <a href="{{ .Permalink }}"><h1>{{ .Title}}</h1></a>
+</section>
