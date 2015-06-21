@@ -2,3 +2,24 @@ baseurl: "http://team2059.org/"
 languageCode: "en-us"
 title: "The Hitchhikers"
 metaDataFormat: "yaml"
+paginate: 8
+taxonomies:
+    blog: "blog" # Used to create categories by year grouped as "/blog/YYYY".               
+menu:
+    main: # The menu at the top of the page.
+      - Name: "Home"
+        Identifier: "home"
+        URL: "/"
+        Weight: 0
+      - Name: "About"
+        Identifier: "about"
+        URL: "/about/"
+        Weight: 1
+      - Name: "Blog"
+        Identifier: "blog"
+        URL: "/blog/"
+        Weight: 2
+      - Name: "Resources"
+        Identifier: "resources"
+        URL: "/resources/"
+        Weight: 3
