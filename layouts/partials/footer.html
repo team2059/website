@@ -1,16 +1,17 @@
 <footer class="footer">
-  <section class="inner-footer">
+  <div class="inner">
     <h2 class="center"><a href="/" class="title">The Hitchhikers</a></h2>
-    <ul class="inline-list icons center">
-      <li><a href="https://facebook.com/team2059">&#xe800;</a></li>
-      <li><a href="https://twitter.com/team2059">&#xe801;</a></li>
-      <li><a href="https://github.com/team2059">&#xe802;</a></li>
-      <li><a href="https://youtube.com/team2059">&#xe803;</a></li>
-      <li><a href="https://instagram.com/team2059">&#xe804;</a></li>
-      <li><a href="http://team2059.tumblr.com">&#xe805;</a></li>
+    <ul class="inline-list center">
+      {{ range $.Site.Data.footer.legal }}
+        <li><a href="{{ .url }}">{{ .title }}</a></li>
+      {{ end }}
     </ul>
-    </section>
-  </section>
+    <ul class="inline-list icons center">
+      {{ range $.Site.Data.footer.social }}
+        <li><a href="{{ .url }}" title="{{ .title }}">&#{{ .character }};</a></li>
+      {{ end }}
+    </ul>
+  </div>
 </footer>
 </body>
 </html>

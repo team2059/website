@@ -1,0 +1,26 @@
+legal:
+  - title: Source Code
+    url: "https://github.com/team2059/website"
+  - title: Privacy Policy
+    url: "#"
+  - title: Contact Us
+    url: "#"
+social:
+  - title: Twitter
+    url: "https://twitter.com/team2059"
+    character: "xe801"
+  - title: YouTube
+    url: "https://youtube.com/team2059"
+    character: "xe803"
+  - title: "GitHub"
+    url: "https://github.com/team2059"
+    character: "xe802"
+  - title: "Instagram"
+    url: "https://instagram.com/team2059"
+    character: "xe804"
+  - title: "Tumblr"
+    url: "http://team2059.tumblr.com"
+    character: "xe805"
+  - title: "Facebook"
+    url: "https://facebook.com/team2059"
+    character: "xe800"
