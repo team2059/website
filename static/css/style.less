@@ -1,12 +1,16 @@
 @import 'colors';
 @import 'fonts';
-@import 'templates';
+@import (reference, less) 'templates';
 
 @medium: 860px;
 @small: 550px;
-@xsmall: 480px;
+@xsmall: 360px;
 
 @small-scale: 0.75;
+
+html {
+    background-color: @white;
+}
 
 body {
     background-color: @light-gray;
@@ -77,6 +81,14 @@ select {
     color: @hh-blue;
 }
 
+.center {
+    .center;
+}
+
+.shadow {
+    .shadow;
+}
+
 
 [role="button"],
 input[type=button],
@@ -91,6 +103,14 @@ footer {
     padding: 1em;
     a.title {
         .orange-link;
+        color: @white;
+        background-color: @orange;
+        &:hover {
+            background-color: @hh-orange;
+        }
+    }
+    .inner {
+        .main-content;
     }
 }
 
@@ -154,17 +174,9 @@ img {
 }
 
 .content {
-    position: relative; // Keeps text selection within this section.
-    width: 90%;
-    max-width: 40em;
-    margin: 1.5em auto 1.5em auto;
+    .main-content;
     background-color: @white;
     .shadow;
-    padding: 4em;
-    @media (max-width: @medium) {
-        width: 80%;
-        padding: 10%;
-    }
     a {
         text-decoration: underline;
     }
@@ -315,6 +327,13 @@ img {
     }
 }
 
+.inline-list {
+    li {
+        display: inline;
+        margin: 0 0.5em;
+    }
+}
+
 .icons {
     font-family: 'icons';
     height: 3em;
@@ -350,8 +369,6 @@ img {
     li {
         position: relative;
         float: left;
-        display: inline;
-        margin: 0 .5em;
         width: 3em;
         height: 3em;
         border-radius: 100%;
@@ -370,9 +387,11 @@ img {
             &:nth-of-type(3n + 1),
             &:nth-of-type(3n + 2) {
                 .half-width;
-                font-size: 0.5em;
+                h1 {
+                    font-size: 1em;
+                }
                 .media {
-                    height: 25.5em;
+                    height: 12.8em;
                 }
             }
             &:nth-of-type(3n + 2) {
@@ -380,4 +399,9 @@ img {
             }
         }
     }
+}
+
+.pagination {
+    min-height: 3em;
+    margin: 2em 0;
 }
