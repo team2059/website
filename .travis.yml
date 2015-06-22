@@ -10,4 +10,4 @@ before_install:
 - npm install
 install: go get -v github.com/spf13/hugo
 script: npm start
-after_sucess: gulp deploy
+after_success: gulp deploy
