@@ -2,9 +2,9 @@ legal:
   - title: Source Code
     url: "https://github.com/team2059/website"
   - title: Privacy Policy
-    url: "#"
+    url: "/about/website/privacy/"
   - title: Contact Us
-    url: "#"
+    url: "/contact/"
 social:
   - title: Twitter
     url: "https://twitter.com/team2059"
