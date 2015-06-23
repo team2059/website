@@ -2,14 +2,14 @@
   {{ if isset .Params "video" }}
   <div class="media">
     <div class="video">
-      <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen>
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;controls=1&amp;showinfo=0" allowfullscreen>
       </iframe>
     </div>
-    <a href="{{ .Permalink }}">
-      <h1>{{ .Title}}</h1>
-    </a>
   </div>
-  {{ else if .image }}
+  <a href="{{ .Permalink }}">
+    <h1>{{ .Title}}</h1>
+  </a>
+  {{ else if isset .Params "image" }}
   <a href="{{ .Permalink }}">
     <div class="media">
       <img src="/images/{{ index .Params "image" }}" alt="{{ .Title }}">
