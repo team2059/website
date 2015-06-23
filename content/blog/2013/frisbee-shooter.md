@@ -1,8 +1,9 @@
 ---
 date: 2013-01-30T15:22:33-04:00
-draft: true
 title: Frisbee Shooter
 video: uXasF5PYAcs
+blog:
+  - 2013
 ---
 
 Our prototype Frisbee shooter for Ultimate Ascent overcame several different

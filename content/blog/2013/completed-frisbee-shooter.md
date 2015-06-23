@@ -1,8 +1,9 @@
 ---
 date: 2013-02-13T15:40:37-04:00
-draft: true
 title: Completed Frisbee Shooter
 video: RTff3HEzXnQ
+blog:
+  - 2013
 ---
 
 For this year's FIRST Robotics Competition, Ultimate Ascent, we knew that we

@@ -1,8 +1,9 @@
 ---
 date: 2013-03-01T15:42:14-04:00
-draft: true
 title: Climber
 video: RHUdJ6Rj47o
+blog:
+  - 2013
 ---
 
 Early on in the first week of Ultimate Ascent, we decided that we wanted both a

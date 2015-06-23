@@ -1,8 +1,9 @@
 ---
 date: 2013-02-02T15:25:01-04:00
-draft: true
 title: Robot Chassis
 video: HjyyoWbfTlg
+blog:
+  - 2013
 ---
 
 Our robot chassis this year was design specifically for size and spin. We

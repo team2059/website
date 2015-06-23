@@ -1,8 +1,9 @@
 ---
 date: 2013-05-05T16:06:06-04:00
-draft: true
 title: Robot Demos
 video: FkRGa_jAo1k
+blog:
+  - 2013
 ---
 
 One could label a robot demo "showing off with a purpose." That is exactly what

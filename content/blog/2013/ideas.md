@@ -1,8 +1,9 @@
 ---
 date: 2013-01-21T15:20:44-04:00
-draft: true
 title: Ideas
 video: zvWeECzm2zk
+blog:
+  - 2013
 ---
 
 The first day of build season is a very important time for us Hitchhikers for it

@@ -1,7 +1,9 @@
 ---
 date: 2013-03-02T15:54:03-04:00
-draft: true
 title: Palmetto Regional
+image: 2013/TRILLIAN_HANGING.jpg
+blog:
+  - 2013
 ---
 
 This was it. After six weeks of brainstorming, designing, and building a robot

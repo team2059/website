@@ -1,7 +1,9 @@
 ---
 date: 2013-04-19T15:58:55-04:00
-draft: true
 title: North Carolina Regional
+image: 2013/TEAM_AT_NC_REGIONAL.jpg
+blog:
+  - 2013
 ---
 
 After a decent run in Palmetto, we knew we had what it would take to succeed in
@@ -16,7 +18,7 @@ challenging losses, however, we fell  back to seventh place on Friday, but we
 managed to gain back a spot to sit in sixth place at the end of qualifications
 on Saturday.
 
-![Trillian shooting.](http://thehitchhikers.org/wp-content/uploads/2013/03/IMG_1973.jpg)
+![Trillian shooting.](/images/2013/TRILLIAN_PRACTICE.jpg)
 
 Because we were in the top eight, we knew we would select or be selected by two
 other teams to join them in a permanent alliance for the elimination rounds,
@@ -32,7 +34,7 @@ a score of 88-87.
 “After alliance selections, I was feeling pretty nervous,” said team spirit lead
 Megan McGrew, “But we all came through.”
 
-![Trillain climbing.](http://thehitchhikers.org/wp-content/uploads/2013/03/IMG_1487.jpg)
+![Trillian climbing.](/images/2013/TRILLIAN_HANGING.jpg)
 
 
 Next, we found ourselves in a close contest in the semifinals against the

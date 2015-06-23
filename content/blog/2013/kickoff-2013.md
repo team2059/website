@@ -1,11 +1,12 @@
 ---
 date: 2013-01-14T15:17:59-04:00
-draft: true
 title: Kickoff 2013 with The Hitchhikers
 video: PJJjWEFOmk4
+blog:
+  - 2013
 ---
 
-FIRST Robotics Competition teams from across the state of North Carolina
+_FIRST_ Robotics Competition teams from across the state of North Carolina
 gathering together in Dorton Arena can only mean one thing (well, two things
 actually, but excluding the North Carolina Regional, one thing): it is time for
 kickoff.
