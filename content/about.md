@@ -1,7 +1,7 @@
 ---
 title: About Us
 video: i9622JPgfH4
-type: about
+type: about-menu
 aliases:
   - /about-us
 ---
