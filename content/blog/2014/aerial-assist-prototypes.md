@@ -1,8 +1,9 @@
 ---
 date: 2014-02-11T20:36:20-04:00
-draft: true
 title: Aerial Assist Prototypes
 video: 0RB6D-ve20k
+blog:
+  - 2014
 ---
 
 Prototypes are a huge part of our build season; through the rapid creation of

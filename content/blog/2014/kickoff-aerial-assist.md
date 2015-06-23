@@ -1,8 +1,9 @@
 ---
 date: 2014-01-25T20:31:21-04:00
-draft: true
 title: Kickoff & Aerial Assist
 video: 3H9kZMAkRmg
+blog:
+  - 2014
 ---
 
 It's the best six weeks of the year again! During the FIRST Robotics Competition

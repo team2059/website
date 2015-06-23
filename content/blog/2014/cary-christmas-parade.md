@@ -1,7 +1,9 @@
 ---
 date: 2014-12-28T20:43:33-04:00
-draft: true
 title: 2014 Cary Christmas Parade
+image: 2014/CARY_CHRISTMAS_PARADE.jpg
+blog:
+  - 2014
 ---
 
 Soon after coming back from THOR 2014 as finalists, we only had about a month to
