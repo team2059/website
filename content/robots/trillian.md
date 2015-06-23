@@ -1,6 +1,5 @@
 ---
 date: 2013-06-20T18:04:12-04:00
-draft: true
 title: Trillian
 year: 2013
 game: ULTIMATE ASCENT

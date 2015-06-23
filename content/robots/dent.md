@@ -1,6 +1,5 @@
 ---
 date: 2015-06-20T17:56:18-04:00
-draft: true
 title: Dent
 year: 2014
 game: Recycle Rush

@@ -1,6 +1,5 @@
 ---
 date: 2014-06-20T18:03:56-04:00
-draft: true
 title: Zaphod
 year: 2014
 game: AERIAL ASSIST
