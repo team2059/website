@@ -5,9 +5,12 @@
       <iframe src="https://www.youtube-nocookie.com/embed/{{ .video }}?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen>
       </iframe>
     </section>
+    </div>
+    <a href="{{ .Permalink }}">
     {{ else if .image }}
+      <a href="{{ .Permalink }}">
       <img src="/images/{{ .image }}" alt="{{ .Title }}">
+      </div>
   {{ end }}
-  </div>
-  <a href="{{ .Permalink }}"><h1>{{ .Title}}</h1></a>
+  <h1>{{ .Title}}</h1></a>
 </section>
