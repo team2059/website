@@ -2,16 +2,18 @@
 {{ partial "header.html" . }}
     <article class="main">
       <section class="featured">
-        <div class="media">
         {{ if isset .Params "video" }}
+        <div class="media">
           <section class="video">
             <iframe src="https://www.youtube-nocookie.com/embed/{{ index .Params "video" }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen>
             </iframe>
           </section>
-        {{ else if isset .Params "image" }}
-          <img src="/images/{{ index .Params "image" }}" alt="{{ .Title }}">
-        {{ end }}
         </div>
+        {{ else if isset .Params "image" }}
+        <div class="media">
+          <img src="/images/{{ index .Params "image" }}" alt="{{ .Title }}">
+        </div>
+        {{ end }}
         <header>
           <h1 id="title">{{ .Title }}</h1>
         </header>
