@@ -24,3 +24,5 @@ menu:
         Identifier: "resources"
         URL: "/resources/"
         Weight: 3
+blackfriday:
+    plainIdAnchors: true
