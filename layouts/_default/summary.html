@@ -16,5 +16,11 @@
     </div>
     <h1>{{ .Title}}</h1>
   </a>
+  {{ else }}
+  <a href="{{ .Permalink }}">
+    <div class="media">
+    </div>
+    <h1>{{ .Title }}</h1>
+  </a>
   {{ end }}
 </section>
