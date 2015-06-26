@@ -7,7 +7,7 @@ aliases:
 ---
 
 Who are The Hitchhikers?
-========================
+------------------------
 
 We are FIRST Robotics Competition Team 2059, The Hitchhikers, with members from
 Cary, Raleigh, Apex and across Wake County, North Carolina. Since 2010, we have
