@@ -81,6 +81,10 @@ select {
     color: @hh-blue;
 }
 
+fieldset {
+    border: none;
+}
+
 .center {
     .center;
 }
@@ -108,6 +112,9 @@ footer {
         &:hover {
             background-color: @hh-orange;
         }
+	@media (max-width: @small) {
+	    font-size: 0.75em;
+	}
     }
     .inner {
         .main-content;
@@ -181,6 +188,15 @@ img {
         text-decoration: underline;
     }
     h1 {
+	text-align: center;
+	padding: 1em 0;
+	margin: 0;
+	.color-blue;
+	&:hover {
+	    .borders;
+	}
+    }
+    h2 {
         text-align: center;
         padding: 1em 0;
         margin: 0;
@@ -329,7 +345,7 @@ img {
 
 .inline-list {
     li {
-        display: inline;
+        display: inline-block;
         margin: 0 0.5em;
     }
 }
