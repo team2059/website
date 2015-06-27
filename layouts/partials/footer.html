@@ -1,6 +1,10 @@
 <footer class="footer">
   <div class="inner">
-    <h2 class="center"><a href="/" class="title">The Hitchhikers</a></h2>
+    <h2 class="center">
+      <a href="/" class="title">
+	The Hitchhikers
+      </a>
+    </h2>
     <ul class="inline-list center">
       {{ range $.Site.Data.footer.legal }}
         <li><a href="{{ .url }}">{{ .title }}</a></li>
@@ -8,7 +12,11 @@
     </ul>
     <ul class="inline-list icons center">
       {{ range $.Site.Data.footer.social }}
-        <li><a href="{{ .url }}" title="{{ .title }}">&#{{ .character }};</a></li>
+      <li>
+	<a href="{{ .url }}" title="{{ .title }}" target="_blank">
+	  &#{{ .character }};
+	</a>
+      </li>
       {{ end }}
     </ul>
   </div>
