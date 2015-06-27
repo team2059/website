@@ -197,6 +197,7 @@ img {
 	}
         */
     }
+
     h2 {
         text-align: center;
         padding: 1em 0;
@@ -207,6 +208,7 @@ img {
             .color-blue;
         }
     }
+
     ul {
         padding-left: 2em;
     }
@@ -311,26 +313,39 @@ img {
     display: inline-block;
     width: 100%;
     h1 {
-        .borders;
+        padding: 1em;
         .regular-transition;
         .color-blue;
-        max-width: 100%;
-        text-align: center;
-        margin: 0 auto 0 auto;
+	text-align: center;
+	max-width: 100%;
+	margin: 0 auto 0 auto;
         padding: 5% 0 5% 0;
         display: block;
         z-index: -2;
+	&:hover {
+
+	}
+    }
+    a {
+        h1 {
+           .borders;
+	}
     }
     a {
         text-decoration: none;
+        &:hover {
+            h1 {
+                color: @hh-blue;
+                background-color: @white;
+            }
+        }
     }
     img {
         margin-bottom: -1em;
     }
     &:hover {
         h1 {
-            color: @hh-blue;
-            background-color: @white;
+            background-color: darken(@hh-blue, 10%);
         }
     }
 }
