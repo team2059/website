@@ -9,12 +9,9 @@
       {{ end }}
     {{ end }}
   </section>
-  <div class="featured">
-    <h1>The Latest.</h1>
-  </div>
   <section class="summary">
-  {{ range first 3 (where .Site.Pages "Section" "blog") }}
-      {{ .Render "summary"}}
+    {{ range $.Site.Data.index.pages }}
+      {{ partial "summary.html" . }}
     {{ end }}
   </section>
 </article>
