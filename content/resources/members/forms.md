@@ -1,7 +1,8 @@
 ---
 date: 2015-06-21T14:17:46-04:00
-draft: true
 title: Forms
+resources:
+  - Members
 ---
 
 + 2015 [Consent, Release, Hold Harmless, and Permission Form][Release Form]

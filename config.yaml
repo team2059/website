@@ -6,6 +6,7 @@ metaDataFormat: "yaml"
 paginate: 8
 taxonomies:
     blog: "blog" # Used to create categories by year grouped as "/blog/YYYY".
+    resources: "resources" # Used to create categories such as "resources/code/*"
 menu:
     main: # The menu at the top of the page.
       - Name: "Home"
