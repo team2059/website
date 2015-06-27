@@ -4,6 +4,8 @@ title: Ideas
 video: zvWeECzm2zk
 blog:
   - 2013
+aliases:
+  - /ideas
 ---
 
 The first day of build season is a very important time for us Hitchhikers for it

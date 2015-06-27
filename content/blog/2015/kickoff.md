@@ -1,8 +1,11 @@
 ---
 date: 2015-01-10T13:34:29-04:00
-draft: true
 title: 2015 Kickoff
 image: 2015/KICKOFF_PLANNING.jpg
+blog:
+  - 2015
+aliases:
+  - /2015-kickoff
 ---
 
 A buzz of excitement ran through the room where students, alumni, and mentors

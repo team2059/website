@@ -1,7 +1,10 @@
 ---
 date: 2012-02-13T17:15:26-04:00
 title: "Build Season Update: Week 5"
-
+blog:
+  - 2012
+aliases:
+  - /build-season-update-week-5
 ---
 
 Week Six Already?

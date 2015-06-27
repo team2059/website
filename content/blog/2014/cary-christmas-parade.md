@@ -4,6 +4,8 @@ title: 2014 Cary Christmas Parade
 image: 2014/CARY_CHRISTMAS_PARADE.jpg
 blog:
   - 2014
+aliases:
+  - /2014-cary-christmas-parade  
 ---
 
 Soon after coming back from THOR 2014 as finalists, we only had about a month to

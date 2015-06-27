@@ -1,8 +1,11 @@
 ---
 date: 2015-06-21T13:14:43-04:00
-draft: true
 title: 2015 North Carolina Regional
 image: 2015/TEAM_AT_NC_REGIONAL.jpg
+blog:
+  - 2015
+aliases:
+  - /2015-north-carolina-regional
 ---
 
 Having participated in the Palmetto Regional a few weeks before, our team came
@@ -43,5 +46,7 @@ Industrial Safety Award and the Engineering Inspiration Award. We are having a
 great season and are looking forward to competing at the FRC World Championships
 in St. Louis!
 
-Thank you to all of our sponsors, volunteers, and fellow teams who have all made
+Thank you to all of our [sponsors], volunteers, and fellow teams who have all made
 this possible!
+
+[sponsors]: /about/sponsors/ "Our Sponsors"

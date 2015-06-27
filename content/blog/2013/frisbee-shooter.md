@@ -4,6 +4,8 @@ title: Frisbee Shooter
 video: uXasF5PYAcs
 blog:
   - 2013
+aliases:
+  - /frisbee-shooter
 ---
 
 Our prototype Frisbee shooter for Ultimate Ascent overcame several different

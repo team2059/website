@@ -1,7 +1,10 @@
 ---
 date: 2012-04-06T16:42:50-04:00
-draft: true
 title: NC Regional is a Go!
+blog:
+  - 2012
+aliases:
+  - /nc-regional-is-a-go
 ---
 
 The North Carolina Regional begins today at 8:30am, and we're all pumped and

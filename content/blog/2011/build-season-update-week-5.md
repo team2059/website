@@ -1,7 +1,10 @@
 ---
 date: 2011-02-12T15:59:31-04:00
-draft: true
 title: "Build Season Update: Week 5"
+blog:
+  - 2011
+aliases:
+  - /build-season-update-week-5
 
 ---
 

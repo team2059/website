@@ -4,6 +4,8 @@ title: Kickoff & Aerial Assist
 video: 3H9kZMAkRmg
 blog:
   - 2014
+aliases:
+  - /kickoff-aerial-assist  
 ---
 
 It's the best six weeks of the year again! During the FIRST Robotics Competition

@@ -4,6 +4,8 @@ title: Robot Demos
 video: FkRGa_jAo1k
 blog:
   - 2013
+aliases:
+  - /robot-demos
 ---
 
 One could label a robot demo "showing off with a purpose." That is exactly what

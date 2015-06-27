@@ -4,6 +4,8 @@ title: Kickoff 2013 with The Hitchhikers
 video: PJJjWEFOmk4
 blog:
   - 2013
+aliases:
+  - /kickoff-2013
 ---
 
 _FIRST_ Robotics Competition teams from across the state of North Carolina

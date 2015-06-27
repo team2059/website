@@ -1,7 +1,10 @@
 ---
 date: 2011-02-12T16:03:09-04:00
-draft: true
 title: New Website Goes Live!
+blog:
+  - 2011
+aliases:
+  - /new-website-goes-live
 ---
 
 At 1:05 am on February 12, 2011, the Hitchhikers website left beta and was

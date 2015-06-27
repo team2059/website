@@ -4,6 +4,8 @@ title: North Carolina Regional
 image: 2013/TEAM_AT_NC_REGIONAL.jpg
 blog:
   - 2013
+aliases:
+  - /north-carolina-regional  
 ---
 
 After a decent run in Palmetto, we knew we had what it would take to succeed in

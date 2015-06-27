@@ -3,6 +3,8 @@ date: 2015-06-21T14:17:46-04:00
 title: Forms
 resources:
   - Members
+aliases:
+  - /forms
 ---
 
 + 2015 [Consent, Release, Hold Harmless, and Permission Form][Release Form]

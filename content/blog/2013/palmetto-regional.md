@@ -4,6 +4,8 @@ title: Palmetto Regional
 image: 2013/TRILLIAN_HANGING.jpg
 blog:
   - 2013
+aliases:
+  - /2013-palmetto-regional
 ---
 
 This was it. After six weeks of brainstorming, designing, and building a robot

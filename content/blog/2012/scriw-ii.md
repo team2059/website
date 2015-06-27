@@ -1,8 +1,11 @@
 ---
 date: 2012-10-24T15:03:46-04:00
-draft: true
 title: Thumbs Up for SCRIW II!
 video: D6TTo4GvmUk
+blog:
+  - 2012
+aliases:
+  - /scriw-ii
 ---
 
 What is the most fun way to get hyped for build season? By participating in a

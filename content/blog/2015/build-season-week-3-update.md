@@ -1,7 +1,10 @@
 ---
 date: 2015-06-20T22:06:10-04:00
-draft: true
 title: "Build Season: Week 3 Update"
+blog:
+  - 2015
+aliases:
+  - /bulid-season-week-3-update
 ---
 
 This week, the team accomplished a lot in the building and design of our robot.

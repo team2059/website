@@ -1,7 +1,10 @@
 ---
 date: 2012-03-30T14:34:51-04:00
-draft: true
 title: Palmetto Regional Champions!
+blog:
+  - 2012
+aliases:
+  - /palmetto-regional-champions
 ---
 
 The Hitchhikers are the winners of the 2012 FRC Palmetto Regional in Charleston,

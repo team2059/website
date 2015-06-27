@@ -1,7 +1,10 @@
 ---
 date: 2012-02-22T18:26:43-04:00
-draft: true
 title: Bagged and Tagged!
+blog:
+  - 2012
+aliases:
+  - /bagged-and-tagged
 ---
 
 The final day of build season has come and gone. In the past it was known as

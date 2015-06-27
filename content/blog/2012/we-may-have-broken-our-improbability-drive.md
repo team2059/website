@@ -1,7 +1,10 @@
 ---
 date: 2012-04-09T14:47:23-04:00
-draft: true
 title: We may have broken our Improbability Drive
+blog:
+  - 2012
+aliases:
+  - /we-may-have-broken-our-improbability-drive
 ---
 
 After two weeks of preparation, the North Carolina Regional has come and gone in

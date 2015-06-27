@@ -4,6 +4,8 @@ title: An Explosive Week
 video: IDzzBDrZKNg
 blog:
   - 2014
+aliases:
+  - /an-explosive-week
 ---
 
 With build season coming to a close, here is a look at the creation of Zaphod.

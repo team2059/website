@@ -4,6 +4,8 @@ title: Robot Chassis
 video: HjyyoWbfTlg
 blog:
   - 2013
+aliases:
+  - /robot-chasis
 ---
 
 Our robot chassis this year was design specifically for size and spin. We

@@ -1,8 +1,11 @@
 ---
 date: 2015-06-20T21:58:18-04:00
-draft: true
 title: "Build Season: Week 1 Update"
 image: 2015/KEEGAN_CAD.jpg
+blog:
+  - 2015
+aliases:
+  - /build-season-week-1-update
 ---
 
 Soon after the unveiling of this year’s competition, Recycle Rush, we began

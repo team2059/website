@@ -4,6 +4,8 @@ title: Climber
 video: RHUdJ6Rj47o
 blog:
   - 2013
+aliases:
+  - /climber
 ---
 
 Early on in the first week of Ultimate Ascent, we decided that we wanted both a

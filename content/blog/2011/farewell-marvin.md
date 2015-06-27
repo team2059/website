@@ -1,7 +1,8 @@
 ---
 date: 2011-02-26T16:05:30-04:00
-draft: true
 title: Farewell, Marvin!
+blog:
+  - 2011
 aliases:
     - /farewell-marvin
 ---

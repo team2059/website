@@ -1,7 +1,10 @@
 ---
 date: 2012-01-21T13:56:13-04:00
-draft: true
 title: It Begins!
+blog:
+  - 2012
+aliases:
+  - /it-begins
 ---
 
 The 2012 season is now in progress! The Hitchhikers spent January 7th in Raleigh

@@ -4,6 +4,8 @@ title: Completed Frisbee Shooter
 video: RTff3HEzXnQ
 blog:
   - 2013
+aliases:
+  - /completed-frisbee-shooter
 ---
 
 For this year's FIRST Robotics Competition, Ultimate Ascent, we knew that we

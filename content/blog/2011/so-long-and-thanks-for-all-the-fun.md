@@ -1,7 +1,8 @@
 ---
 date: 2011-04-10T13:34:03-04:00
-draft: true
 title: So Long, and Thanks for All the Fun!
+blog:
+  - 2011
 aliases:
     - /so-long-and-thanks-for-all-the-fun
 ---

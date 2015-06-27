@@ -1,7 +1,10 @@
 ---
 date: 2011-04-06T13:30:35-04:00
-draft: true
 title: The Regional at the End of the Universe
+blog:
+  - 2011
+aliases:
+  - /the-regional-at-the-end-of-the-universe
 ---
 
 T-9 hours and counting! Tomorrow is the first day of the North Carolina FRC

@@ -1,7 +1,10 @@
 ---
 date: 2011-01-01T09:59:51-04:00
 title: The Season Begins
-
+blog:
+  - 2011
+aliases:
+  - /hello-world-2
 ---
 
 Here we go; the 2011 build season has begun! I hope everyone enjoys working

@@ -1,7 +1,10 @@
 ---
 date: 2011-10-10T13:50:33-04:00
-draft: true
 title: Thumbs Up for SCRIW
+blog:
+  - 2011
+aliases:
+  - /thumbs-up-for-scriw
 ---
 
 On October 29th, the Hitchhikers took part in the SCRIW (South Carolina Robotics

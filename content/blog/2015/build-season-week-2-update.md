@@ -1,8 +1,11 @@
 ---
 date: 2015-06-20T22:02:18-04:00
-draft: true
 title: "Build Season: Week 2 Update"
 image: 2015/CHASIS_BUILD.jpg
+blog:
+- 2015
+aliases:
+  - /build-season-week-2-update
 ---
 
 Throughout the second week of the build season, we have been hard at work. We

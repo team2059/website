@@ -4,6 +4,8 @@ title: THOR
 video: -lmu6we24Y4
 blog:
   - 2013
+aliases:
+  - /thor-2013
 ---
 
 THOR (Thundering Herd of Robots) was North Carolina’s first off-season

@@ -1,7 +1,10 @@
 ---
 date: 2011-03-26T13:25:00-04:00
-draft: true
 title: Just Two Weeks Left!
+blog:
+  - 2011
+aliases:
+  - /80
 ---
 
 Though build season ended over four weeks ago, the team has still been hard at

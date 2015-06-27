@@ -4,6 +4,8 @@ title: Aerial Assist Prototypes
 video: 0RB6D-ve20k
 blog:
   - 2014
+aliases:
+  - /aerial-assist-prototypes
 ---
 
 Prototypes are a huge part of our build season; through the rapid creation of

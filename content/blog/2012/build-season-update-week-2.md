@@ -1,7 +1,10 @@
 ---
 date: 2012-01-24T17:37:00-04:00
 title: "Build Season Update: Week 2"
-
+blog:
+  - 2012
+aliases:
+  - /bulid-season-update-week-2
 ---
 
 Would you look at that! It's already the start of the third week of this season

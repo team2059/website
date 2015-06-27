@@ -1,7 +1,10 @@
 ---
 date: 2012-02-21T17:22:08-04:00
-draft: true
 title: The Day at the End of Build Season
+blog:
+  - 2012
+aliases:
+  - /the-day-at-the-end-of-build-season
 ---
 
 The final day is upon us all! After six weeks of frantic planning, building, and
