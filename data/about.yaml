@@ -1,7 +1,9 @@
 pages:
-  - Title: Our Robots
-    Permalink: "/robots/"
-    image: 2013/TRILLIAN.jpg
+  - Title: Sponsors
+    Permalink: "/about/sponsors/"
   - Title: Our website
     Permalink: "/about/website"
     image: 2015/KEEGAN_CAD.jpg
+  - Title: Our Robots
+    Permalink: "/robots/"
+    image: 2013/TRILLIAN.jpg

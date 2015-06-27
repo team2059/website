@@ -1,0 +1,10 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+  <article class="main">
+    <div class="summary">
+      {{ range where .Data.Pages "Section" "resources"  }}
+          {{ .Render "summary"}}
+        {{ end }}
+    </div>
+  </article>
+{{ partial "footer.html" . }}
