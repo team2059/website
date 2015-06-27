@@ -21,6 +21,6 @@ community outreach, and a successful robotics program.
 What is *FIRST*?
 ----------------
 
-The  <em>FIRST</em> Robotics Competition (FRC) is a unique varsity sport of the mind
+The *FIRST*  Robotics Competition (FRC) is a unique varsity sport of the mind
 designed to help high-school-aged young people discover how interesting and
 rewarding the life of engineers and researchers can be.
