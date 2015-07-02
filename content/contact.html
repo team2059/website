@@ -8,7 +8,8 @@ aliases:
 <!---
     If JavaScript is disabled, send a response directly to the contact page.
 --->
-<form action="/contact.php" method="post" onsubmit="return onSubmit()">
+<form action="/contact.php" method="post" id="contact-form"
+    onsubmit="return onSubmit()">
   <fieldset>
     <label for="name">Name</label>
     <input type="text" name="name" id="name" required />
