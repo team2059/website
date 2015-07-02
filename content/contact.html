@@ -1,0 +1,91 @@
+---
+date: 2015-06-23T09:30:46-04:00
+title: Contact Us
+aliases:
+  - /contact-us
+---
+
+<!---
+    If JavaScript is disabled, send a response directly to the contact page.
+--->
+<form action="/contact.php" method="post" onsubmit="return onSubmit()">
+  <fieldset>
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" required />
+
+    <label for="email">Email</label>
+    <input type="email" name="email" id="email" required />
+
+    <label for="subject">Subject</label>
+    <input type="text" name="subject" id ="subject" value="" required />
+
+    <label for="message">Message</label>
+    <textarea name="message" id="message" rows="8" cols="40" required></textarea>
+
+    <label for"website" style="position:absolute;left:-1000px;">
+      Please leave this empty.
+    </label>
+    <input type="url" name="website" id="website" 
+      style="position:absolute;left:-1000px;" autocomplete="off" />
+
+    <noscript>
+      <p>
+        <small>
+          We love making robots, but we prefer not to get letters from them.
+        </small>
+      </p>
+      <label for="number">
+        Please type in our team number in the box below.
+      </label>
+      <input type="number" name="number" id="number" value="" required />
+    </noscript>
+
+    <button type="reset" name="reset">Reset</button>
+    <button type="submit" name="submit" class="button" value="Send">Submit</button>
+  </fieldset>
+</form>
+
+<script>
+var form = document.getElementById('contact-form');
+
+function onRequest () {
+  alert(this.responseText);
+}
+
+function format_url(name, email, subject, message, website) {
+  return 'contact.php?name=' + name +
+    '&email=' + email +
+    '&subject=' + subject +
+    '&message=' + message +
+    '&website=' + website
+    '&number=2059';
+}
+
+function onSubmit () {
+  var form_data = {
+    name: '',
+    email: '',
+    subject: '',
+    message: '',
+    // Should be blank.
+    website: 'None'
+  };
+  // Populate the form data.
+  form_data.name = document.getElementById('name').value;
+  form_data.email = document.getElementById('email').value;
+  form_data.subject = document.getElementById('subject').value;
+  form_data.message = document.getElementById('message').value;
+  form_data.website = document.getElementById('website').value;
+  // Remove the form data.
+  form.reset.click();
+  // Send the form data to the server.
+  // If JavaScript is disabled, the same action will be taken.
+  var request = new XMLHttpRequest();
+  var url = format_url(form_data.name, form_data.email, form_data.subject,
+    form_data.message, form_data.website);
+  request.open('POST', url, true);
+  request.onload = onRequest;
+  request.send();
+  return false;
+}
+</script>
