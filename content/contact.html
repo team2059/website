@@ -76,7 +76,7 @@ function onSubmit () {
   form_data.email = document.getElementById('email').value;
   form_data.subject = document.getElementById('subject').value;
   form_data.message = document.getElementById('message').value;
-  form_data.website = document.getElementById('website').value;
+  form_data.website = document.getElementById('website').value || 'None';
   // Remove the form data.
   form.reset.click();
   // Send the form data to the server.
@@ -85,6 +85,7 @@ function onSubmit () {
   var url = format_url(form_data.name, form_data.email, form_data.subject,
     form_data.message, form_data.website);
   request.open('POST', url, true);
+  request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
   request.onload = onRequest;
   request.send();
   return false;
