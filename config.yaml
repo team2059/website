@@ -24,5 +24,9 @@ menu:
         Identifier: "resources"
         URL: "/resources/"
         Weight: 3
+      - Name: "Contact"
+        Identifier: "contact"
+        URL: "/contact/"
+        Weight: 4
 blackfriday:
     plainIdAnchors: true
