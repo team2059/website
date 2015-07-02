@@ -3,3 +3,4 @@ node_modules/
 *.log
 static/fonts/
 static/logos/
+static/config.php
