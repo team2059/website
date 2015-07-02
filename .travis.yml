@@ -11,3 +11,6 @@ before_install:
 install: go get -v github.com/spf13/hugo
 script: npm start
 after_success: gulp deploy
+branches:
+  only:
+    - master
