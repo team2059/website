@@ -54,7 +54,7 @@ function onRequest () {
 }
 
 function format_url(name, email, subject, message, website) {
-  return 'contact.php?name=' + name +
+  return 'name=' + name +
     '&email=' + email +
     '&subject=' + subject +
     '&message=' + message +
@@ -84,10 +84,10 @@ function onSubmit () {
   var request = new XMLHttpRequest();
   var url = format_url(form_data.name, form_data.email, form_data.subject,
     form_data.message, form_data.website);
-  request.open('POST', url, true);
+  request.open('POST', 'contact.php', true);
   request.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
   request.onload = onRequest;
-  request.send();
+  request.send(url);
   return false;
 }
 </script>
