@@ -12,10 +12,10 @@
         {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
         <div class="full-width pagination">
         {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.Url }}" class="button left">Previous</a>
+            <a href="{{ $paginator.Prev.URL }}" class="button left">Previous</a>
         {{ end }}
         {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.Url }}" class="button right">Next</a>
+            <a href="{{ $paginator.Next.URL }}" class="button right">Next</a>
         {{ end }}
       </div>
       {{ end }}
