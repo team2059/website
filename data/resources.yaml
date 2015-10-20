@@ -2,3 +2,6 @@ resources:
   - Title: Members
     Permalink: "/resources/members/"
     image: "2015/TEAM_AT_NC_REGIONAL.jpg"
+  - Title: Electrical
+    Permalink: "/resources/electrical/"
+    image: "2015/LIMIT_SWITCH_SENSOR.JPG"
