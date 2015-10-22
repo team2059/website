@@ -1,7 +1,7 @@
 ---
 date: 2015-10-16T14:56:04-04:00
 title: Magnetic Limit Switches
-image: 2015/LIMIT_SWITCH_SENSOR.JPG
+image: 2015/LIMIT_SWITCH_SENSOR.jpg
 resources:
   - electrical
 aliases:
