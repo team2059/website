@@ -3,7 +3,7 @@ date: 2015-11-06T21:39:19-05:00
 blog:
  - 2015
 title: Hitchhiking at SCRIW V
-image: 2015/ARTHUR_SCRIW.jpg
+image: 2015/ARTHUR_SCRIW5.jpg
 ---
 
 ![Description](/images/2015/SCRIW_TEAM.jpg)
