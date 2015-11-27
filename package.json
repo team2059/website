@@ -4,7 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
-    "start": "hugo && gulp",
+    "start": "hugo && gulp && rm -r ./public/branding/less",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,16 +17,11 @@
     "url": "https://github.com/team2059/website/issues"
   },
   "homepage": "http://team2059.org/",
-  "devDependencies": {
-    "browser-sync": "^2.7.6",
-    "gulp": "^3.8.11",
-    "gulp-clean": "^0.3.1",
-    "gulp-less": "^3.0.3",
-    "gulp-minify-html": "^1.0.2",
-    "gulp-run": "^1.6.8",
-    "gulp-util": "^3.0.5",
-    "less-plugin-clean-css": "^1.5.0",
-    "run-sequence": "^1.1.0",
-    "vinyl-ftp": "^0.4.1"
+    "devDependencies": {
+        "gulp": "^3.8.11",
+        "gulp-minify-html": "^1.0.2",
+        "gulp-minify-css": "^1.2.1",
+        "gulp-util": "^3.0.5",
+        "vinyl-ftp": "^0.4.1"
   }
 }
