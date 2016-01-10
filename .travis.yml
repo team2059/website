@@ -5,7 +5,7 @@ env:
   - secure: W+hRn8j8OdsAx5Lf8OprQboszj4lSezTXHkoyf8DirAiTzbGYIUExnObOBM92bYsEGgF37Drzy7aOrqrmwiwI9ZAJ963XOOxjHP6SHPyQfroBKhvs2OHKJ8v+LreGluz4VkS4Utigj/byra8hk/Zp6jQodk0DGWiHotB9j5/niloEUXdKyzepERO0RU+EmFGXE4vhSRczRXjQD7XvN8fKkC/Z+39vW1Sc5ZqfyuBgNWhKoHTaKAhmJwetFPHl6lLK4m6se+dwQFodgUDs5mjnFS00QK08UG4JJvRVBC0n9Q0emuCo1ZD+iFWqwYYLQdzYqRQq29+gxUCe38wnVexvw3LaNyD/xRbg/SholDGnmx3O8sG6t86CH5VKfx47RRd/R4LS+fnYtK1ISmmx/Vh8KrQxBL4GiyJlT/KTfyRDIdEo6yGqeecxF9u1Ds3FNVM5gf2YFEEWfciiBTeXX0KrK2sq+E3MquGqt98Wyu3yCgHjjF/sPLUEVAm5QnRFZDhvRaMMmR0lbCAEn2cj324hvWPmpcRyxoWLA7S33ZvrFbg1aeX6YC+E96kXonNsAQokwYFcrTU/ukoUvklU/cpBV188oZbqymCe+59HJ5PT+6BxfniMqBnF6pC2jvXvmLRKHty8p27/KyX16uvjpNDnpR3xyzWPsU6/31VzBorZ9o=
 language: go
 go:
-- 1.3
+- 1.5
 before_install:
 - npm install
 install: go get -v github.com/spf13/hugo
