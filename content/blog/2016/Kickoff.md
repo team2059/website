@@ -1,7 +1,7 @@
 ---
 date: 2016-01-24T13:20:22-05:00
 title: 2016 Kickoff
-image: 2016/Kickoff.JPG
+image: 2016/Kickoff2.JPG
 ---
 
 The energy was high as hundreds of high school students and mentors gathered together at Orange High School in Hillsborough, NC, and eagerly waited to watch the 2016 FRC game broadcast. Everyone was anticipating what the new challenge was all about, using the teaser video FIRST released a few months prior. After a long introduction and several teasers, the new game was revealed: Stronghold. 
