@@ -18,6 +18,12 @@ from Cary, Raleigh, Apex and across Wake County, North Carolina. Since 2010, we
 have worked to build a stronger future through student leadership, impactful
 community outreach, and a successful robotics program.
 
+Robotics Summer Camp
+--------------------
+
+Information on our 2016 summmer camps may be found
+[here](/events/2016-summer-camp).
+
 What is *FIRST*?
 ----------------
 
