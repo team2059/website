@@ -26,4 +26,4 @@ Someone will contact you quickly to discuss the program with you and answer any 
 Classes are limited to 12 students so secure your spot today.
 
 For more information, please visit our
-[contact page](/events/2016-summer-camp/).
+[contact page](/contact/).
