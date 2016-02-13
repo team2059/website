@@ -1,6 +1,6 @@
 ---
 date: 2016-02-13T14:33:06-05:00
-title: week_four
+title: Week 4 Update
 image: 2016/Week_four.JPG
 ---
 
