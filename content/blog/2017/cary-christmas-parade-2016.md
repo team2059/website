@@ -1,7 +1,7 @@
 ---
 date: 2017-03-23
 title: Cary Christmas Parade
-image: 2016/Kickoff2.JPG
+image: 2017/Float_2016.jpg
 ---
 
 A couple of weeks before Christmas, we participated in the Cary Christmas Parade for our third time, allowing us to showcase our robots and introduce our team to our community. To get ready for the parade, we all pitched in to decorate our robots and float with a ton of orange, blue, and holiday cheer. 
