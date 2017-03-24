@@ -1,7 +1,7 @@
 ---
-date: 2017-03-23
+date: 2017-03-24
 title: Pitt County District Event
-image: 2017/Gear_Pitt.png
+image: 2017/Gear_Pitt.PNG
 ---
 
 After bag & tag, we had about a week to prepare for our first competition, the Pitt County District Event. Over that week, we met on several days to continue fine tuning Slartibartfast, make buttons, start packing, and do anything else that needed to be done before competition.
