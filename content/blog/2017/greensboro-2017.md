@@ -4,7 +4,7 @@ title: Greensboro District Event 2017
 image: 2017/Overview-Greensboro.jpg
 ---
 
-Our first event was a huge learning experience and helped us to develop a clearer, more focused game strategy. At the first event, we learned that shooting was not the way to go. As a result, we took off our shooter and ball collector. We also realized that while our gear collector was good, we could make it better and faster for our next events. In the few days leading up to the Greensboro District Event, we decided to make a second gear collector that could pick up gears off the floor and was automated. This, we discovered, would make our cycle time faster and ensure that the gear was placed on the airship more securely.
+Our first event was a huge learning experience and helped us to develop a clearer, more focused game strategy. At the first event, we learned that shooting was not the way to go for us. As a result, we took off our shooter and ball collector. We also realized that while our gear collector was good, we could make it better and faster for our next events. In the few days leading up to the Greensboro District Event, we decided to make a second gear collector that could pick up gears off the floor and was automated. This, we discovered, would make our cycle time faster and ensure that the gear was placed on the airship more securely.
 
 On Friday, we again started off a little rough due to having a new gear collector and being unable to make it to a practice round for more practice with it. After a few rounds, however, it was pretty obvious that our new gear collector was working well. It was common to score three to four gears in a match. Once again, we showed that we could climb and do gears well. At the end of the day, we were ranked in 8th place.
 
