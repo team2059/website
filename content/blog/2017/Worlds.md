@@ -1,7 +1,7 @@
 ---
 date: 2017-04-30
 title: Houston World Championships 2017
-image: 2017/Houston.JPG
+image: 2017/IMG_20170424_212359.jpg
 ---
 
 “We made it!” proclaimed several hitchhikers as the World Championships in Houston commenced on Wednesday. The start of the World Championships found our team getting settled into our hotel, unbagging Slartibartfast, and setting up our pit. We also attended a conference and visited top teams such as Team 118, Robonauts; and Team 971, Spartan Robotics. Eventually we were all done for the next day, and we went back to our hotel for some much needed rest.
