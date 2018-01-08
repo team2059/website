@@ -9,17 +9,15 @@ image: "2013/TRILIAN_CLIMBING.jpg"
 
 *The Optimist Club of Raleigh*
 
-*United Therapeutics*
+*Terracon*
 
-*Best Buy Children's Foundation*
+*NASA*
 
 *IBM*
 
 *Duke Energy*
 
-*ASME*
-
-*Gregory Poole*
+*Nutanix*
 
 *Athens Drive High School*
 
