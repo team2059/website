@@ -8,7 +8,10 @@ go:
 - 1.7
 before_install:
 - npm install
-install: go get -v github.com/gohugoio/hugo
+install: [
+    "wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.32.4/hugo_0.32.4_Linux-64bit.deb",
+    "sudo dpkg -i /tmp/hugo.deb"
+  ]
 script: npm start
 after_success: gulp deploy
 branches:
