@@ -13,7 +13,10 @@ install: [
     "sudo dpkg -i /tmp/hugo.deb"
   ]
 script: npm start
-after_success: gulp deploy
+after_success: [
+    "npm install --global gulp-cli",
+    "gulp deploy"
+  ]
 branches:
   only:
     - master
