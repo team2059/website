@@ -9,7 +9,7 @@ go:
 before_install:
 - npm install
 install: [
-    "wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.32.4/hugo_0.32.4_Linux-64bit.deb",
+    "wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.20.7/hugo_0.20.7_Linux-64bit.deb",
     "sudo dpkg -i /tmp/hugo.deb"
   ]
 script: npm start
