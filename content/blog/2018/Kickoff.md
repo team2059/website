@@ -1,7 +1,7 @@
 ---
 date: 2018-01-17
 title: 2018 Kickoff
-image: 2018/Kickoff-2018.jpg
+image: 2018/Kickoff.jpg
 ---
 
 Tension was high and excitement was tangible in the room where students, mentors, and alumni stood around the TV, waiting for the 2018 game reveal. After a long introduction hinting at what was to come and a freeze right before the unveiling of the game, the 2018 challenge Power Up was announced.
