@@ -1,6 +1,6 @@
 ---
 date: 2018-01-18
-title: 2018 Build Season: Week 1
+title: "2018 Build Season: Week 1"
 image: 2018/Build-2018-w1.JPG
 ---
 
