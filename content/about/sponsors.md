@@ -3,8 +3,7 @@ date: 2015-06-27T11:57:55-04:00
 title: Our Sponsors
 aliases:
   - /sponsors
-image: "2011/Sponsor-Pic-Website.JPG"
-# TODO: Use a better image for this page.
+image: 2011/Sponsor-Pic-Website.JPG
 ---
 
 *The Optimist Club of Raleigh*
@@ -20,4 +19,3 @@ image: "2011/Sponsor-Pic-Website.JPG"
 *Nutanix*
 
 *Athens Drive High School*
-
