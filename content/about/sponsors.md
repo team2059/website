@@ -6,7 +6,9 @@ aliases:
 image: 2011/Sponsor-Pic-Website.JPG
 ---
 
-Because we are a registered nonprofit, we rely heavily on company sponsorships, grants, and donations to support us. Without sponsors, what we do would not be improbable; it would be impossible, and we are extremely grateful for all of our sponsors! Below is a list of our current sponsors:
+Because we are a registered nonprofit, we rely heavily on company sponsorships, grants, and donations to support us. Without sponsors, what we do would not be improbable; it would be impossible, and we are extremely grateful for all of our sponsors!
+
+Below is a list of our current sponsors:
 
 *The Optimist Club of Raleigh*
 
