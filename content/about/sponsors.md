@@ -8,14 +8,16 @@ image: 2011/Sponsor-Pic-Website.JPG
 
 *The Optimist Club of Raleigh*
 
+*Duke Energy*
+
+*IBM*
+
 *Terracon*
 
 *NASA*
 
-*IBM*
-
-*Duke Energy*
-
 *Nutanix*
+
+*Sellware*
 
 *Athens Drive High School*
