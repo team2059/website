@@ -11,22 +11,22 @@ menu:
       - Name: "Home"
         Identifier: "home"
         URL: "/"
-        Weight: 0
+        Weight: 1
       - Name: "About"
         Identifier: "about"
         URL: "/about/"
-        Weight: 1
+        Weight: 2
       - Name: "Blog"
         Identifier: "blog"
         URL: "/blog/"
-        Weight: 2
+        Weight: 3
       - Name: "Resources"
         Identifier: "resources"
         URL: "/resources/"
-        Weight: 3
+        Weight: 4
       - Name: "Contact"
         Identifier: "contact"
         URL: "/contact/"
-        Weight: 4
+        Weight: 5
 blackfriday:
     plainIdAnchors: true
