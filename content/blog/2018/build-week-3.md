@@ -1,5 +1,5 @@
 ---
-date: 2018-02-1
+date: 2018-02-01
 title: "2018 Build Season: Week 3"
 image: 2018/Week3.jpg
 ---
