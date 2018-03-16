@@ -1,5 +1,5 @@
 ---
-date: 2018-03-02
+date: 2018-03-15
 title: "2018 Pitt County District Event"
 image: 2018/Pitt-Team-Pic.jpg
 ---
