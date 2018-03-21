@@ -17,5 +17,3 @@ The last day of competition dawned bright but a little too early. Due to dayligh
 Finally, it was time for Alliance Selections, and what an experience it was! The rankings got messed up three times. While everything got fixed before any damage was done, it was a stressful time for all the teams because it had the potential to ruin plans. At the end of Alliance Selections, we moved up to the position of Captain of the 3rd Alliance with Team 2642, Pitt Pirates, and Team 6215, Armored Eagles, as our alliance partners!
 
 After a quick lunch and a strategy meeting, playoff rounds began. Due to a few electrical and mechanical problems, our two quarterfinal matches did not go as well as we knew they could, but we still managed to pull a win. We fixed our problems and did extremely well in semifinals, making it to finals! During both of our finals matches, every second was a battle for the scale and switch, but in the end, our alliance ended up taking home the blue banner! We were also awarded the Innovation in Control Award for the first time in our team history!
-
-Next up: UNC Pembroke District Event!
