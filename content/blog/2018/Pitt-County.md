@@ -1,7 +1,11 @@
 ---
-date: 2018-03-16
+date: 2018-03-21
 title: "2018 Pitt County District Event"
-image: 2018/Pitt-Team-Pic.jpg
+blog:
+  - 2018
+aliases:
+  - /Pitt-County
+image: 2018/Pitt-Team.jpg
 ---
 
 After Stop Build Day, we took a few days off to catch up on our sleep and school!  During the weeks leading up to our first competition in Greenville, we finished our robot cart, made some spare parts for our robot, and started packing up.
@@ -10,7 +14,7 @@ Like all other competitions, our first day of the Pitt County District Event was
 
 The next day, ready or not, it was time for the start of qualification matches! It should come as no surprise that the first two matches of the day were rough for a couple of reasons. The first reason is that our Drive Team was still getting used to Grunthos. Driving Grunthos in practice is just not the same as driving him on the real field. The second reason is that our PID (Proportional–Integral–Derivative) was fighting our robot. Fortunately, we were able to fix the PID in time for our third match. After that problem was fixed, we performed quite well for most of the matches and got our auto super consistent!
 
-Near the end of the day, we noticed that we could never manage to drive the robot up onto the platform at the end of the match. We thought we just put a dead battery in one match, but the same problem happened a couple more times. Our last match, in particular, we were having all sorts of problems. Finally, we discovered the problem; we had forgotten to check our batteries with a load. What this meant is that our battery voltage would always drop drastically during matches. Needless to say, it was a lesson learned and a mistake that we were not eager to repeat! Besides the robot performance, everything else was smooth sailing. Scouting went well, our Chairman’s interview was successful, we had many judges visit our pit throughout the day, and we ended the day ranked 4th.
+Near the end of the day, we noticed that we could never manage to drive the robot up onto the platform at the end of the match. We thought we just put a dead battery in one match, but the same problem happened a couple more times. Our last match, in particular, we were having all sorts of problems. Finally, we discovered the problem; we had forgotten to check our batteries with a load. What this meant is that our battery voltage would always drop drastically during matches. Needless to say, it was a lesson learned and a mistake that we were not eager to repeat! Besides the robot performance, everything else was smooth sailing. Scouting went well, our Chairman’s interview was successful, many judges visit our pit throughout the day, and we ended the day ranked 4th.
 
 The last day of competition dawned bright but a little too early. Due to daylight savings, we lost an hour of sleep. Despite that, we were ready for the day to begin! Our first match went well, but we knew that we could do better. Unfortunately, we had problems during our last two matches, but we kept our 4th rank at the end of the qualification matches.
 
