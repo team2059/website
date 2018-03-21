@@ -1,10 +1,6 @@
 ---
 date: 2018-03-21
 title: "2018 Pitt County District Event"
-blog:
-  - 2018
-aliases:
-  - /Pitt-County
 image: 2018/Pitt-Team.jpg
 ---
 
