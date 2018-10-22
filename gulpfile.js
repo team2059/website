@@ -34,7 +34,8 @@ gulp.task('deploy', function () {
         port: 21,
         localRoot: __dirname + "/public/",
         remoteRoot: "/",
-        include: ['*']
+        include: ['*'],
+	exclude: []
     }
         
     ftpDeploy.deploy(config, function(err) {
