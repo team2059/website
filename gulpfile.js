@@ -2,10 +2,8 @@ var gulp = require('gulp'),
     gutil = require('gulp-util'),
     minifyHtml = require('gulp-minify-html'),
     minifyCss = require('gulp-minify-css')
+    ftp = require( 'vinyl-ftp' ),
     path = require('path');
-
-var FtpDeploy = require('ftp-deploy');
-var ftpDeploy = new FtpDeploy();
 
 var paths = {
     html: './public/**/*.html',
@@ -27,21 +25,24 @@ gulp.task('minify-css', function() {
 });
 
 gulp.task('deploy', function () {
-    var config = {
-        username: process.env.FTP_USER,
-        password: process.env.FTP_PASSWORD,
+    var connection = ftp.create({
         host: process.env.FTP_HOST,
-        port: 21,
-        localRoot: __dirname + "/public/",
-        remoteRoot: "/",
-        include: ['*'],
-	exclude: []
-    }
-        
-    ftpDeploy.deploy(config, function(err) {
-	if (err) console.log(err)
-	else console.log('finished');
+        user: process.env.FTP_USER,
+        password: process.env.FTP_PASSWORD,
+	secureOptions: false,
+	rejectUnauthorized: false,
+        parallel: 2,
+        log: gutil.log
     });
+
+    var output = 'public/**';
+
+    return gulp.src(output, {
+        base: './public',
+        buffer: false
+    })
+      .pipe(connection.newer('.'))
+      .pipe(connection.dest('.'));
 })
 
 gulp.task('default', ['build']);
