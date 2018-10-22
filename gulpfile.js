@@ -40,8 +40,8 @@ gulp.task('deploy', function () {
         base: './public',
         buffer: false
     })
-      .pipe(connection.newer('/'))
-      .pipe(connection.dest('/'));
+      .pipe(connection.newer('.'))
+      .pipe(connection.dest('.'));
 })
 
 gulp.task('default', ['build']);
