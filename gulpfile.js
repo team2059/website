@@ -37,6 +37,7 @@ gulp.task('deploy', function () {
 
     return gulp.src(output, {
         base: './public',
+	secureOptions: true,
         buffer: false
     })
       .pipe(connection.newer('/'))
