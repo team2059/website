@@ -1,6 +1,6 @@
 ---
 date: 2017-03-26
-title: Greensboro District Event 2017
+title: "2017 Greensboro District Event"
 image: 2017/Overview-Greensboro.jpg
 ---
 
