@@ -10,6 +10,8 @@ Because we are a registered nonprofit, we rely heavily on company sponsorships, 
 
 Below is a list of our current sponsors:
 
+*Athens Drive High School*
+
 *The Optimist Club of Raleigh*
 
 *Duke Energy*
@@ -18,10 +20,8 @@ Below is a list of our current sponsors:
 
 *Terracon*
 
-*NASA*
-
 *Nutanix*
 
 *Sellware*
 
-*Athens Drive High School*
+*Spectraforce Technologies*
