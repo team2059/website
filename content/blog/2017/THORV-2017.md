@@ -1,6 +1,6 @@
 ---
 date: 2018-01-15
-title: THOR 2017
+title: "2017 THOR"
 image: 2017/THOR-2017.JPG
 ---
 
