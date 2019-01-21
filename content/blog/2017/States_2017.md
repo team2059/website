@@ -1,6 +1,6 @@
 ---
 date: 2017-04-17
-title: State Championships 2017
+title: ?2017 State Championship"
 image: 2017/States.JPG
 ---
 
