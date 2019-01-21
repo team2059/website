@@ -1,6 +1,6 @@
 ---
 date: 2017-03-25
-title: Pitt County District Event 2017
+title: "2017 Pitt County District Event"
 image: 2017/Gear_Pitt.JPG
 ---
 
