@@ -1,6 +1,6 @@
 ---
 date: 2018-01-16
-title: Apex Christmas Parade 2017
+title: "2017 Apex Christmas Parade"
 image: 2017/Parade-2017.jpg
 ---
 
