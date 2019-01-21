@@ -1,6 +1,6 @@
 ---
 date: 2017-03-23
-title: Cary Christmas Parade
+title: "2016 Cary Christmas Parade"
 image: 2017/Float_2016.jpg
 ---
 
