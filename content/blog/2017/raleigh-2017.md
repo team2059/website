@@ -1,6 +1,6 @@
 ---
 date: 2017-03-27
-title: Raleigh District Event 2017
+title: "2017 Raleigh District Event"
 image: 2017/Team_Photo_Raleigh.jpg
 ---
 
