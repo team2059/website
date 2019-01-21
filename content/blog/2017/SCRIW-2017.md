@@ -1,6 +1,6 @@
 ---
 date: 2018-01-12
-title: SCRIW 2017
+title: "2017 SCRIW"
 image: 2017/SCRIW-2017-Team.JPG
 ---
 
