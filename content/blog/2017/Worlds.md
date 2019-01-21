@@ -1,6 +1,6 @@
 ---
 date: 2017-04-30
-title: Houston World Championships 2017
+title: "2017 Houston World Championships"
 image: 2017/IMG_20170424_212359.jpg
 ---
 
