@@ -7,7 +7,7 @@ aliases:
   - /handbook
 ---
 
-+ 2019 [The Hitchhikers Guide To Robotics][Handbook 2019]
++ 2019 [The Hitchhikers' Guide To Robotics][Handbook 2019]
 
 
-[Handbook 2019]: /files/2018-2019 HH Team Handbook.pdf
+[Handbook 2019]: /files/Team-Handbook.pdf
