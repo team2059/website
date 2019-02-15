@@ -20,7 +20,7 @@ Below is a list of our current sponsors:
 
 *Terracon*
 
-*Nutanix*
+*Sanmina*
 
 *Sellware*
 
