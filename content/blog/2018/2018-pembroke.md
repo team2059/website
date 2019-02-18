@@ -1,7 +1,7 @@
 ---
 date: 2018-03-19
 title: "2018 UNC Pembroke District Event"
-image: 2018-Pembroke.jpg
+image: 2018/2018-Pembroke.jpg
 ---
 
 Before UNC Pembroke, we were pleased with our performance at Pitt, but we knew that we could improve. The week of the competition, we worked on repairing Grunthos (our robot) and making small adjustments to our collector and elevator. In addition, we made the tough call to discard the idea of using ramps. A lot of effort went into making the ramps because it was a huge challenge to get the balance right between making them light enough but also strong enough to lift a 100-120 pound robot. Scrapping what we worked so hard to make was a slightly upsetting thought for us. In the end, we only removed our ramp pistons and kept the ramp boards themselves to display our sponsors and help with our starting configuration.

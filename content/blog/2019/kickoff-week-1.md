@@ -1,7 +1,7 @@
 ---
 date: 2019-01-20
 title: "2019 Build Season: Kickoff and Week 1"
-image: 2019-Week-1.jpg
+image: 2019/2019-Week-1.jpg
 ---
 
 This 2019 season, FIRST NC invited our team along with Team 7763, Carrborobotics (our mentee team), to attend a special Kickoff at Hangar6 sponsored by Caterpillar. At Kickoff, we were able to talk with and learn from NC FRC judges and Caterpillar while bonding with Carrborobotics more. After an hour of networking, it was finally time to reveal the 2019 game, Deep Space.

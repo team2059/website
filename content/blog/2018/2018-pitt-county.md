@@ -1,7 +1,7 @@
 ---
 date: 2018-03-12
 title: "2018 Pitt County District Event"
-image: 2018-Pitt.jpg
+image: 2018/2018-Pitt.jpg
 ---
 
 After Stop Build Day, we took a few days off to catch up on our sleep and school!  During the weeks leading up to our first competition in Greenville, we finished our robot cart, made some spare parts for our robot, and started packing up.

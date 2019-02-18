@@ -1,7 +1,7 @@
 ---
 date: 2018-04-22
 title: "2018 Houston World Championships"
-image: 2018-Worlds.jpg
+image: 2018/2018-Worlds.jpg
 ---
 
 Prior to the start of Worlds, we learned that we had been placed in the Turing Division with many of our NC friends like Team 2642, Pitt Pirates (the team we won two competitions with this season). On the first day of the Houston World Championships, we got to work getting settled into our hotel, unbagging Grunthos, and setting up our Pit at the End of the Universe. We also attended a party hosted by Qualcomm, who payed for our Worlds’ registration fee, and eventually, made our way back to our hotel for some rest before qualification matches began the next day.

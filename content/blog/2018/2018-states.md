@@ -1,7 +1,7 @@
 ---
 date: 2018-03-28
 title: "2018 State Championship"
-image: 2018-States.JPG
+image: 2018/2018-States.JPG
 ---
 
 After three back-to-back competitions, we were more than ready for a break! Fortunately, we got a week to rest, recover, and drink some tea. However, we knew that we could not relax too much since States was right around the corner. After our break, we met a few more times to refine and fix up Grunthos. A couple of students on our team also made a hook for Grunthos to climb with.

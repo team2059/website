@@ -1,7 +1,7 @@
 ---
 date: 2018-12-05
 title: "2018 Apex Christmas Parade"
-image: 2018-Parade.jpg
+image: 2018/2018-Parade.jpg
 ---
 
 For three years, we participated in the Cary Christmas Parade, spreading the message of FIRST to hundreds of people. The last two years, however, we decided to participate in Apex’s Christmas Parade instead. As late October and November rolled around, we began to prepare for our annual tradition.

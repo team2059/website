@@ -1,7 +1,7 @@
 ---
 date: 2018-03-26
 title: "2018 UNC Asheville District Event"
-image: 2018-Asheville.JPG
+image: 2018/2018-Asheville.JPG
 ---
 
 Coming off from two back-to-back weekend competitions, we were pretty exhausted! However, we could not afford a break because we had to immediately start getting ready for a demo at the advance screening of the movie Pacific Rim Uprising. The demo itself was quite a success, but there were some funny issues during the demo such as the movie starting right in the middle of our presentation! After the demo, we set to work using our unbag hours to work on repairing anything that got damaged at competition and programming a faster auto.
