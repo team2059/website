@@ -1,5 +1,5 @@
 ---
-date: 2019-03-20
+date: 2019-04-10
 title: "2019 NC State Championship"
 image: 2019/States.jpg
 ---
