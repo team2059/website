@@ -1,0 +1,19 @@
+---
+date: 2019-03-20
+title: "2019 NC State Championship"
+image: 2019/States.jpg
+---
+
+After our two back-to-back competitions, we were excited to get a chance to relax and catch up on life and some good tea! Our break was quite restful, but we knew that preparation for States had to begin soon. A few days after the end of Guilford, we met to unpack Moby, our transportation van, and to discuss improvements to make to our robot, Deep Thought. More traction was something that we all agreed would be the most beneficial and easy change to make.
+
+Originally, Deep Thought had four pneumatic wheels, but we quickly changed that before our first competition at Wake once we saw that it did not allow for as much maneuverability as we wanted. It was for this reason that we switched to having two pairs of omni wheels in the front and the back with two pneumatic wheels in the middle. The problem with that configuration was that the pneumatic wheels we had were slightly smaller than our omni wheels, causing our weight to be mainly on our omnis. In turn, this made us more susceptible to defense.
+
+To fix that, we played around with several ideas, but in the end, we decided to just switch out the pneumatic wheels in the middle for traction wheels. These, we made sure, actually touched the ground and made us less pushable, enabling us to cycle more and faster!
+
+One of our students also wanted to devote time to making a new hatch mechanism, so he made small lexan hook for Deep Thought. While it did not work well for its intended purpose, we kept it on the robot as it helped out with collecting the ball. Previously, we were having difficulty collecting a ball in the middle of the field while it was moving. The hook stopped the ball from rolling, enabling us to collect much faster and increase the number of cycles we could do in a match!
+
+Finally, it was time for the competition to start! On the day of load-in, we were ready for the competition and in high spirits, but we were also slightly apprehensive. We knew that we had a team history of getting difficult match schedules, especially at States, so it was with a nervous, eager anticipation that we waited for the match schedule to be released. Eventually, it was released late that night, and we immediately started looking over our schedule and comparing it to other teams’ schedules. Sure enough, it was going to be rough for us. In five different matches, we were against one team three times and another team twice. Unfortunately, these were the other top teams in the state, and in their matches against us, they would have more help from their alliance partners than we would. Rather than panic, however, we remained calm, and after a good night’s sleep, qualification matches began the next day!
+
+As expected, we had our ups and downs throughout the day. There were times that we performed quite well, times we were up against a tough alliance, and times we were with alliance partners that were difficult to work with. We also had a few matches where mechanical issues prevented us from showing and achieving our full potential. For example, our lexan plate that covered our batter holder flipped up during a match, and we could not get it to go back in place, preventing us from collecting cargo for the entire match.
+
+The next day, qualification matches went much better for us! Though we were predicted to lose each match, and we did indeed lose them, we performed well and managed to finish ranked 14th despite our difficulties. Alliance selections quickly followed the end of qualification rounds, and we ended up getting picked by the 5th Alliance! At the end of selections, our two alliance partners were Team 4828, RoboEagles, and Team 7890, SeQuEnCe! Though our alliance did not advance beyond quarterfinals, we ended the competition as the recipients of the Imagery Award and easily qualified for the World Championships in Houston!
